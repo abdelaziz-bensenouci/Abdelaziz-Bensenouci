@@ -1,5 +1,5 @@
 <p align="center">
-  ![image](https://github.com/user-attachments/assets/9c5a2b4f-6fdd-4bcb-af48-096fcd9312a5)
+  <img src="https://via.placeholder.com/800x200/87CEEB/FFFFFF?text=Bienvenue+sur+mon+GitHub" alt="Bienvenue sur mon GitHub" style="width: 100;">
 </p>
 
 <p align="center">
