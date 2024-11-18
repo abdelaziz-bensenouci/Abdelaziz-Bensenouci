@@ -7,9 +7,9 @@ Passionné par l'informatique, j'ai acquis mes premières compétences en codage
 Pour concrétiser cette reconversion, j'ai intégré **l'ENI** pour suivre une formation intensive de **développeur web** d'une durée de 8 mois, achevée en décembre 2023. Cette formation m'a permis d'obtenir le **titre professionnel Développeur Web/Web Mobile**, **RNCP Niveau 5**, validé le 14/02/2024.
 
 ### 🛠️ Compétences acquises :
-- Développement Front-end : HTML, CSS, JavaScript, React
-- Développement Back-end : Node.js, PHP, MySQL
-- Méthodologies Agiles : SCRUM, Kanban
+- Développement Front-end : HTML, CSS, JavaScript, Bootstrap
+- Développement Back-end : PHP, MySQL
+- Méthodologies Agiles : SCRUM
 - Outils de versionnement : Git, GitHub
 
 ## 🎯 Objectifs
@@ -21,5 +21,5 @@ Ma reconversion professionnelle est guidée par ma passion pour l'informatique e
 </a>
 
 ## 📫 Contact
-- **Email** : abdelaziz@example.com
-- **GitHub** : [VotreProfilGitHub](https://github.com/votreprofil)
+- **Email** : abdelaziz.bensenouci@laplateforme.io
+- **GitHub** : (https://github.com/abdben13)
