@@ -35,7 +35,7 @@ Ma reconversion professionnelle est guidée par ma passion pour l'informatique e
 
 ## 🌐 Réseaux Sociaux
 <a href="https://www.linkedin.com/in/abdelaziz-b-35394a274/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="center">
 </a>
 
 ## Contact
