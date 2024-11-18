@@ -4,4 +4,4 @@ Formation : Afin de concrétiser cette reconversion, j'ai intégré l'ENI pour s
 Titre rncp niveau 5, obtenu le 14/02/2024
 
 
-Conclusion : Ma reconversion professionnelle dans le domaine du développement web est motivée par ma passion pour l'informatique et mon désir d'évoluer dans un secteur en constante évolution. Grâce à ma formation en cours et à mon expérience antérieure, je suis confiant dans ma capacité à contribuer de manière significative à tout projet web. Je suis motivé à l'idée de mettre en pratique mes compétences et d'apprendre d’avantage au travers d'une étape enrichissante au sein d'une entreprise dynamique.
+Conclusion : Ma reconversion professionnelle est motivée par ma passion pour l'informatique et mon désir d'évoluer dans un secteur en constante évolution. Grâce à ma formation en cours et à mon expérience antérieure, je suis confiant dans ma capacité à contribuer de manière significative à tout projet. Je suis motivé à l'idée de mettre en pratique mes compétences et d'apprendre d’avantage au travers d'une étape enrichissante au sein d'une entreprise dynamique.
