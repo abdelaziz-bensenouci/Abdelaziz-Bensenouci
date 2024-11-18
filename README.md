@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/800x200/0000FF/FFFFFF?text=Bienvenue+sur+mon+GitHub" alt="Bienvenue sur mon GitHub" style="width: 100;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Java_logo_icon_2021.png" alt="Java Logo" width="200">
 </p>
 
 <p align="center">
