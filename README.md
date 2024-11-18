@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://via.placeholder.com/800x200.png?text=Bienvenue+sur+mon+GitHub" alt="Bienvenue sur mon GitHub" style="width: 100%;">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
