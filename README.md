@@ -14,3 +14,9 @@ Pour concrétiser cette reconversion, j’ai intégré l’ENI pour suivre une f
 	•	Développement Back-end : PHP, MySQL
 	•	Méthodologies Agiles : SCRUM
 	•	Outils de versionnement : Git, GitHub
+
+🎯 Objectifs
+
+Ma reconversion professionnelle est guidée par ma passion pour l’informatique et mon désir d’évoluer dans un secteur en perpétuelle innovation. Je suis déterminé à appliquer mes compétences et à continuer d’apprendre dans un environnement stimulant.
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelaziz-b-35394a274/)
