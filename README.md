@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
-# Abdelaziz B. - Développeur de logiciels
+# <h1 align="center">Abdelaziz B. - Développeur de logiciels</h1>
 
 ## À propos de moi
 Passionné par l'informatique, j'ai acquis mes premières compétences en codage grâce à une initiation au développement d'applications mobiles iOS avec **Simplon.co**, une formation financée et agréée par **Apple Foundation**. Après plusieurs expériences dans le secteur de l'hôtellerie et de l'accueil, j'ai pris la décision, à l'âge de 37 ans, de me reconvertir dans un domaine qui me passionne réellement.
@@ -35,7 +35,7 @@ Ma reconversion professionnelle est guidée par ma passion pour l'informatique e
 
 ## 🌐 Réseaux Sociaux
 <a href="https://www.linkedin.com/in/abdelaziz-b-35394a274/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="center">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 ## Contact
