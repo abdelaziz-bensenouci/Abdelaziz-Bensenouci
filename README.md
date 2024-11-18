@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  Extrait du bouquin "Les fondamentaux du langage Java" : ` Java, mot d’argot voulant dire café, en raison des quantités de café ingurgité par les programmeurs et notamment par ses concepteurs. ` 😂
+  Extrait du bouquin "Les fondamentaux du langage Java" : Java, mot d’argot voulant dire café, en raison des quantités de café ingurgité par les programmeurs et notamment par ses concepteurs.
 </p>
 
 <h1 align="center">Abdelaziz B. - Développeur de logiciels</h1>
