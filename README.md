@@ -29,4 +29,4 @@ Ma reconversion professionnelle est guidée par ma passion pour l'informatique e
 
 ## 📫 Contact
 - **Email** : abdelaziz.bensenouci@laplateforme.io
-- **GitHub (Projets)** : <a href="https://www.linkedin.com/in/abdelaziz-b-35394a274/](https://github.com/abdben13" target="_blank">abdben13</a>
+- **GitHub (Projets)** : <a href="https://github.com/abdben13" target="_blank">abdben13</a>
