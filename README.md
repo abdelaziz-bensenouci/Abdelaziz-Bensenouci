@@ -1,6 +1,5 @@
 <p align="center">
-    <img src="https://via.placeholder.com/800x200/87CEEB/FFFFFF?text=Java%2C+mot+d%E2%80%99argot+pour+le+caf%C3%A9%0Aconsomm%C3%A9+par+les+programmeurs" alt="Explication du mot Java" style="width: 100;">
-
+  <img src="https://via.placeholder.com/800x200/87CEEB/FFFFFF?text=Bienvenue+sur+mon+GitHub" alt="Bienvenue sur mon GitHub" style="width: 100%;">
 </p>
 <p align="center">
    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
