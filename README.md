@@ -11,7 +11,8 @@
    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
    <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
 </p>
-# <h1 align="center">Abdelaziz B. - Développeur de logiciels</h1>
+
+<h1 align="center">Abdelaziz B. - Développeur de logiciels</h1>
 
 ## Nouvelle Formation
 Je viens de débuter une formation de **3 ans** à **La Plateforme** pour me spécialiser en **développement de logiciels**. Dans le cadre de cette formation, je recherche une **alternance** à partir de **septembre 2025** pour mettre en pratique mes compétences et contribuer activement au sein d'une équipe dynamique.
