@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Java_logo_icon_2021.png" alt="Java Logo" width="200">
+  ![image](https://github.com/user-attachments/assets/9c5a2b4f-6fdd-4bcb-af48-096fcd9312a5)
 </p>
 
 <p align="center">
