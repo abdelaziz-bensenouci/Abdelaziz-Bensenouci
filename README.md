@@ -37,9 +37,10 @@ Pour concrétiser cette reconversion, j'ai intégré **l'ENI** pour suivre une f
 Ma reconversion professionnelle est guidée par ma passion pour l'informatique et mon désir d'évoluer dans un secteur en perpétuelle innovation. Je suis déterminé à appliquer mes compétences et à continuer d'apprendre dans un environnement stimulant.
 
 ## 🌐 Réseaux Sociaux
+<p align="center">
 <a href="https://www.linkedin.com/in/abdelaziz-b-35394a274/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+</a></p>
 
 ## Contact
 - **Email** : abdelaziz.bensenouci@laplateforme.io
