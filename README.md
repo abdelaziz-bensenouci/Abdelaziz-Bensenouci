@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://via.placeholder.com/800x200/0000FF/FFFFFF?text=Bienvenue+sur+mon+GitHub" alt="Java, mot d’argot voulant dire café, en raison des quantités de café ingurgité par les programmeurs et notamment par ses concepteurs" style="width: 100;">
+  <img src="https://via.placeholder.com/800x200/87CEEB/FFFFFF?text=Java%2C+mot+d%E2%80%99argot+voulant+dire+caf%C3%A9%2C+en+raison+des+quantit%C3%A9s+de+caf%C3%A9+ingurgit%C3%A9es+par+les+programmeurs+et+notamment+par+ses+concepteurs." alt="Explication du mot Java" style="width: 100;">
 </p>
 <p align="center">
    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
