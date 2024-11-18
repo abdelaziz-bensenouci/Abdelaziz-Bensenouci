@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Bienvenue+sur+mon+GitHub" alt="Bienvenue sur mon GitHub" style="width: 100%;">
+  <img src="https://via.placeholder.com/800x200/0000FF/FFFFFF?text=Bienvenue+sur+mon+GitHub" alt="Bienvenue sur mon GitHub" style="width: 100;">
 </p>
 
 <p align="center">
