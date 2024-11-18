@@ -27,7 +27,7 @@ Passionné par l'informatique, j'ai acquis mes premières compétences en codage
 ## Formation
 Pour concrétiser cette reconversion, j'ai intégré **l'ENI** pour suivre une formation intensive de **développeur web** d'une durée de 8 mois, achevée en décembre 2023. Cette formation m'a permis d'obtenir le **titre professionnel Développeur Web/Web Mobile**, **RNCP Niveau 5**, validé le 14/02/2024.
 
-### Compétences acquises :
+### Compétences:
 
 ### 🔹 Langages de Programmation
 - **HTML**, **CSS**, **JavaScript**, **Java**, **Php**
