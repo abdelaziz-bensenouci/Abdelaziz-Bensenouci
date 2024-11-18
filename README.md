@@ -1,4 +1,4 @@
-Voici mon fichier : # 🧑‍💻 Abdelaziz B. - Développeur Web & Mobile
+# 🧑‍💻 Abdelaziz B. - Développeur de logiciels
 
 ## 👋 À propos de moi
 Passionné par l'informatique, j'ai acquis mes premières compétences en codage grâce à une initiation au développement d'applications mobiles iOS avec **Simplon.co**, une formation financée et agréée par **Apple Foundation**. Après plusieurs expériences dans le secteur de l'hôtellerie et de l'accueil, j'ai pris la décision, à l'âge de 37 ans, de me reconvertir dans un domaine qui me passionne réellement.
@@ -29,4 +29,4 @@ Ma reconversion professionnelle est guidée par ma passion pour l'informatique e
 
 ## 📫 Contact
 - **Email** : abdelaziz.bensenouci@laplateforme.io
-- **GitHub (Projets)** : <a href="[https://www.linkedin.com/in/abdelaziz-b-35394a274/](https://github.com/abdben13)" target="_blank">abdben13</a>
+- **GitHub (Projets)** : <a href="https://www.linkedin.com/in/abdelaziz-b-35394a274/](https://github.com/abdben13" target="_blank">abdben13</a>
