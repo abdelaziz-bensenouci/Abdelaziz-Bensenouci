@@ -44,6 +44,16 @@ Pour concrétiser cette reconversion, j'ai intégré **l'ENI** pour suivre une f
 ## Objectifs
 Ma reconversion professionnelle est guidée par ma passion pour l'informatique et mon désir d'évoluer dans un secteur en perpétuelle innovation. Je suis déterminé à appliquer mes compétences et à continuer d'apprendre dans un environnement stimulant.
 
+## Projets
+- Dans ma bulle: Forum et chat sur l'autisme. PHP, Javascript, Bootstrap et BDD Mysql.
+- Achetez-Auto.com: Site de vente de véhicule. PHP, Javascript, Bootstrap et BDD Mysql.
+- Projet réalisé en JAVA JEE durant la formation ENI, ventes aux enchères de divers
+  articles. Environnement Eclipse, serveur Tomcat. Possibilité de publier une annonce ou
+  d'encherir sur une annonce.
+- Projet réalisé sous Symfony 6 durant la formation ENI, site d'organisation de sortie pour
+  étudiants. Possibilité de créer une sortie ou de s'inscrire comme participant pour une
+  sortie publiée.
+
 ## 🌐 Réseaux Sociaux
 <p align="center">
 <a href="https://www.linkedin.com/in/abdelaziz-b-35394a274/" target="_blank">
