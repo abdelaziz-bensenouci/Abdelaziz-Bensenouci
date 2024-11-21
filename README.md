@@ -45,13 +45,13 @@ Pour concrétiser cette reconversion, j'ai intégré **l'ENI** pour suivre une f
 Ma reconversion professionnelle est guidée par ma passion pour l'informatique et mon désir d'évoluer dans un secteur en perpétuelle innovation. Je suis déterminé à appliquer mes compétences et à continuer d'apprendre dans un environnement stimulant.
 
 ## Projets
-- Dans ma bulle: Forum et chat sur l'autisme. PHP, Javascript, Bootstrap et BDD Mysql.
-- Achetez-Auto.com: Site de vente de véhicule. PHP, Javascript, Bootstrap et BDD Mysql.
+- Dans ma bulle: Forum et chat sur l'autisme. PHP, Javascript, Bootstrap et BDD Mysql. Système d'authentification, Gestion de l'espace perso, Possibilité de publier/répondre une     question.
+- Achetez-Auto.com: Site de vente de véhicule. PHP, Javascript, Bootstrap et BDD Mysql. Système d'authentification, gestion de l'espace personnel, publication d'annonce, recherche     d'un véhicule par marque et/ou par prix maximum.
 - Projet réalisé en JAVA JEE durant la formation ENI, ventes aux enchères de divers
-  articles. Environnement Eclipse, serveur Tomcat. Possibilité de publier une annonce ou
+  articles. Environnement Eclipse, serveur Tomcat. Système d'authentification, Possibilité de publier une annonce ou
   d'encherir sur une annonce.
 - Projet réalisé sous Symfony 6 durant la formation ENI, site d'organisation de sortie pour
-  étudiants. Possibilité de créer une sortie ou de s'inscrire comme participant pour une
+  étudiants. Système d'authentification, Gestion de l'espace perso, Possibilité de créer une sortie ou de s'inscrire comme participant pour une
   sortie publiée.
 
 ## 🌐 Réseaux Sociaux
