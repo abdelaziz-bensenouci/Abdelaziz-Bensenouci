@@ -37,6 +37,17 @@ Pour concrétiser cette reconversion, j'ai intégré **l'ENI** pour suivre une f
 
 ### 🔹 Frameworks & Bibliothèques
 - **Bootstrap**, **Symfony**
+
+### 🔹 Administration systèmes et réseaux
+- **Nas**
+- **Truenas Scale**
+- **Active Directory**
+- **Wireshark**
+- **OpenVpn**
+- **Apache Guacamole**
+- **Serveur Pxe**
+- **Ldap**
+- **Cisco**
   
 ### 🔹 Outils & Méthodologies
 - Git, GitHub, Méthodologies Agiles (SCRUM)
