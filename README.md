@@ -12,65 +12,72 @@
    <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
 </p>
 
-<p align="center">
-  Extrait du bouquin "Les fondamentaux du langage Java" : Java, mot d’argot voulant dire café, en raison des quantités de café ingurgité par les programmeurs et notamment par ses concepteurs.
-</p>
+# 👋 Bienvenue !
 
-<h1 align="center">Abdelaziz B. - Administrateur systeme et reseaux</h1>
+> _Extrait du livre **Les fondamentaux du langage Java** : Java, mot d’argot voulant dire café, en raison des quantités de café ingurgité par les programmeurs._
 
-## Nouvelle Formation
-Je viens de débuter une formation Bachelor IT de **3 ans** à **La Plateforme** pour me spécialiser en **Cybersécurité**. Dans le cadre de cette formation, je recherche une **alternance** à partir de **septembre 2025** pour mettre en pratique mes compétences et contribuer activement au sein d'une équipe dynamique.
+---
 
-## À propos de moi
-Passionné par l'informatique, j'ai acquis mes premières compétences en codage grâce à une initiation au développement d'applications mobiles iOS avec **Simplon.co**, une formation financée et agréée par **Apple Foundation**. Après plusieurs expériences dans le secteur de l'hôtellerie et de l'accueil, j'ai pris la décision, à l'âge de 37 ans, de me reconvertir dans un domaine qui me passionne réellement.
+## 👤 À propos de moi
 
-## Formation
-Pour concrétiser cette reconversion, j'ai intégré **l'ENI** pour suivre une formation intensive de **développeur web** d'une durée de 8 mois, achevée en décembre 2023. Cette formation m'a permis d'obtenir le **titre professionnel Développeur Web/Web Mobile**, **RNCP Niveau 5**, validé le 14/02/2024.
+Je m'appelle **Abdelaziz Bensenouci**, ancien administrateur systèmes et réseaux, actuellement en formation **Bachelor IT Cybersécurité** à **La Plateforme** (2025-2028).  
+Je suis à la recherche d’une **alternance à partir de septembre 2025** pour renforcer mes compétences sur le terrain.
 
-### Compétences:
+---
 
-### 🔹 Langages de Programmation
-- **HTML**, **CSS**, **JavaScript**, **Java**, **Php**
+## 🎓 Parcours & Formations
 
-### 🔹 Développement Mobile
-- **SwiftUI** (iOS)
+- **2025 – 2028** : Bachelor IT Cybersécurité – La Plateforme
+- **2023 – 2024** : Titre pro Développeur Web/Web Mobile (RNCP 5) – ENI
+- **2022** : Initiation au dev iOS (SwiftUI) – Simplon.co (Apple Foundation)
 
-### 🔹 Frameworks & Bibliothèques
-- **Bootstrap**, **Symfony**
+---
 
-### 🔹 Administration systèmes et réseaux
-- **Nas**
-- **Truenas Scale**
-- **Active Directory**
-- **Wireshark**
-- **OpenVpn**
-- **Apache Guacamole**
-- **Serveur Pxe**
-- **Ldap**
-- **Cisco**
-  
-### 🔹 Outils & Méthodologies
-- Git, GitHub, Méthodologies Agiles (SCRUM)
+## 🛠️ Compétences
 
-## Objectifs
-Ma reconversion professionnelle est guidée par ma passion pour l'informatique et mon désir d'évoluer dans un secteur en perpétuelle innovation. Je suis déterminé à appliquer mes compétences et à continuer d'apprendre dans un environnement stimulant.
+### 🔹 Langages de programmation
+`HTML`, `CSS`, `JavaScript`, `PHP`, `Java`
 
-## Projets
-- Dans ma bulle: Forum et chat sur l'autisme. PHP, Javascript, Bootstrap et BDD Mysql. Système d'authentification, Gestion de l'espace personnel, Possibilité de publier/répondre une     question.
-- Achetez-Auto.com: Site de vente de véhicule. PHP, Javascript, Bootstrap et BDD Mysql. Système d'authentification, gestion de l'espace personnel, publication d'annonce, recherche     d'un véhicule par marque et/ou par prix maximum.
-- Projet réalisé en JAVA JEE durant la formation ENI, ventes aux enchères de divers
-  articles. Environnement Eclipse, serveur Tomcat. Système d'authentification, Possibilité de publier une annonce ou
-  d'encherir sur une annonce.
-- Projet réalisé sous Symfony 6 durant la formation ENI, site d'organisation de sortie pour
-  étudiants. Système d'authentification, Gestion de l'espace personnel, Possibilité de créer une sortie ou de s'inscrire comme participant pour une
-  sortie publiée.
+### 🔹 Développement mobile
+`SwiftUI (iOS)`
 
-## 🌐 Réseaux Sociaux
-<p align="center">
-<a href="https://www.linkedin.com/in/abdelaziz-b-35394a274/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a></p>
+### 🔹 Frameworks
+`Symfony`, `Bootstrap`
 
-## Contact
-- **Email** : abdelaziz.bensenouci@laplateforme.io
-- **GitHub (Projets)** : <a href="https://github.com/abdben13">abdben13</a>
+### 🔹 Systèmes & Réseaux
+`TrueNAS Scale`, `Active Directory`, `Wireshark`, `OpenVPN`, `Apache Guacamole`, `PXE`, `LDAP`, `Cisco`
+
+### 🔹 Outils & Méthodo
+`Git`, `GitHub`, `Méthodologies Agiles (SCRUM)`
+
+---
+
+## 💼 Projets
+
+### 🔸 [Dans ma bulle](#)
+Forum et chat sur l'autisme – `PHP`, `JavaScript`, `MySQL`, `Bootstrap`
+
+### 🔸 [Achetez-Auto.com](#)
+Site de vente de véhicules – `PHP`, `JavaScript`, `MySQL`, `Bootstrap`
+
+### 🔸 Projet Java JEE – Enchères
+Site de ventes aux enchères – `Java`, `Tomcat`, `Eclipse`
+
+### 🔸 Projet Symfony 6 – Sorties étudiants
+Organisation de sorties étudiantes – `Symfony`, `PHP`, `MySQL`
+
+---
+
+## 🎯 Objectif
+
+Ma reconversion est guidée par une vraie passion pour l’informatique. Je cherche à évoluer dans un environnement stimulant où je pourrai contribuer et apprendre continuellement.
+
+---
+
+## 📫 Me contacter
+
+- 📧 Email : [abdelaziz.bensenouci@laplateforme.io](mailto:abdelaziz.bensenouci@laplateforme.io)
+- 💼 LinkedIn : ["https://www.linkedin.com/in/abdelaziz-b-35394a274/"](#)
+- 🖥️ GitHub : [@abdben13](https://github.com/abdben13)
+
+
