@@ -54,7 +54,7 @@ Je suis à la recherche d’une **alternance à partir de septembre 2025** pour 
 
 ## 💼 Projets
 
-### 🔸 [Dans ma bulle](#)
+### 🔸 [Dans ma bulle](https://github.com/abdelaziz-bensenouci/Forum)
 Forum et chat sur l'autisme – `PHP`, `JavaScript`, `MySQL`, `Bootstrap`
 
 ### 🔸 [Achetez-Auto.com](#)
