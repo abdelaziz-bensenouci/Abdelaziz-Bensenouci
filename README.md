@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cybersecurity.jpg" alt="Bienvenue sur mon GitHub" style="width: 80%;">
+  <img src="cybersecurity.jpg" alt="Bienvenue sur mon GitHub" style="width: 40%;">
 </p>
 <p align="center">
    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
