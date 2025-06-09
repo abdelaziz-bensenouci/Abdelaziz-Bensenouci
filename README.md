@@ -31,6 +31,7 @@ Pour concrétiser cette reconversion, j'ai intégré **l'ENI** pour suivre une f
 
 ### 🔹 Langages de Programmation
 - **HTML**, **CSS**, **JavaScript**, **Java**, **Php**
+<br>
 
 ### 🔹 Développement Mobile
 - **SwiftUI** (iOS)
