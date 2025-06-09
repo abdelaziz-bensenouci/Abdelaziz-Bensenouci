@@ -21,6 +21,7 @@
 ## 👤 À propos de moi
 
 Passionné par l'informatique, j'ai acquis mes premières compétences en codage grâce à une initiation au développement d'applications mobiles iOS avec **Simplon.co**, une formation financée et agréée par **Apple Foundation**. Après plusieurs expériences dans le secteur de l'hôtellerie et de l'accueil, j'ai pris la décision, à l'âge de 37 ans, de me reconvertir dans un domaine qui me passionne réellement.
+<br>
 Je viens de débuter une formation Bachelor IT de **3 ans** à **La Plateforme** pour me spécialiser en **Cybersécurité**. Dans le cadre de cette formation, je recherche une **alternance** à partir de **septembre 2025** pour mettre en pratique mes compétences et contribuer activement au sein d'une équipe dynamique.
 
 ---
