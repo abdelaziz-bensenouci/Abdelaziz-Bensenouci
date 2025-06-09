@@ -16,7 +16,7 @@
   Extrait du bouquin "Les fondamentaux du langage Java" : Java, mot d’argot voulant dire café, en raison des quantités de café ingurgité par les programmeurs et notamment par ses concepteurs.
 </p>
 
-<h1 align="center">Abdelaziz B. - Développeur de logiciel</h1>
+<h1 align="center">Abdelaziz B. - Administrateur systeme et reseaux</h1>
 
 ## Nouvelle Formation
 Je viens de débuter une formation Bachelor IT de **3 ans** à **La Plateforme** pour me spécialiser en **Cybersécurité**. Dans le cadre de cette formation, je recherche une **alternance** à partir de **septembre 2025** pour mettre en pratique mes compétences et contribuer activement au sein d'une équipe dynamique.
