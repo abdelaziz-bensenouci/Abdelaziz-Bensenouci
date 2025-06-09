@@ -80,7 +80,7 @@ Ma reconversion est guidée par une vraie passion pour l’informatique. Je cher
 ## 📫 Me contacter
 
 - 📧 Email : [abdelaziz.bensenouci@laplateforme.io](mailto:abdelaziz.bensenouci@laplateforme.io)
-- 💼 LinkedIn : ["https://www.linkedin.com/in/abdelaziz-b-35394a274/"](#)
+- 💼 LinkedIn : ["https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"](https://www.linkedin.com/in/abdelaziz-b-35394a274/)
 - 🖥️ GitHub : [@abdben13](https://github.com/abdben13)
 
 
