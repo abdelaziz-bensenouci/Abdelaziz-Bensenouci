@@ -57,13 +57,13 @@ Je suis à la recherche d’une **alternance à partir de septembre 2025** pour 
 ### 🔸 [Dans ma bulle](https://github.com/abdelaziz-bensenouci/Forum)
 Forum et chat sur l'autisme – `PHP`, `JavaScript`, `MySQL`, `Bootstrap`
 
-### 🔸 [Achetez-Auto.com](#)
+### 🔸 [Achetez-Auto.com](https://github.com/abdelaziz-bensenouci/Projet_Stage)
 Site de vente de véhicules – `PHP`, `JavaScript`, `MySQL`, `Bootstrap`
 
-### 🔸 Projet Java JEE – Enchères
+### 🔸 [Projet Java JEE](https://github.com/abdelaziz-bensenouci/Projet_Encheres)
 Site de ventes aux enchères – `Java`, `Tomcat`, `Eclipse`
 
-### 🔸 Projet Symfony 6 – Sorties étudiants
+### 🔸 [Projet Symfony 6](https://github.com/abdelaziz-bensenouci/Projet_Sortie)
 Organisation de sorties étudiantes – `Symfony`, `PHP`, `MySQL`
 
 ---
