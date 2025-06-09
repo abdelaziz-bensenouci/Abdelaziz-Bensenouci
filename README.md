@@ -35,9 +35,11 @@ Pour concrétiser cette reconversion, j'ai intégré **l'ENI** pour suivre une f
 
 ### 🔹 Développement Mobile
 - **SwiftUI** (iOS)
+<br>
 
 ### 🔹 Frameworks & Bibliothèques
 - **Bootstrap**, **Symfony**
+<br>
 
 ### 🔹 Administration systèmes et réseaux
 - **Nas**
@@ -49,6 +51,7 @@ Pour concrétiser cette reconversion, j'ai intégré **l'ENI** pour suivre une f
 - **Serveur Pxe**
 - **Ldap**
 - **Cisco**
+<br>
   
 ### 🔹 Outils & Méthodologies
 - Git, GitHub, Méthodologies Agiles (SCRUM)
